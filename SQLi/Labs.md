@@ -1,7 +1,7 @@
 Задание 1
 
 Нужно открыть задание, кликнуть на Gifts, а затем заменить category:
-![alt text](https://raw.githubusercontent.com/AGusarov242/Hack_ALL/master/SQLi/1.png)
+![alt text](https://raw.githubusercontent.com/AGusarov242/Hack_ALL/blob/master/SQLi/1.png)
 
 Задание 2
 
